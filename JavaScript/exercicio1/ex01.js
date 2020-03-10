@@ -1,4 +1,3 @@
-/*
 //Calcule a média 
 function media(n1,n2,n3){
     return media = (n1 + n2 + n3) / 3
@@ -49,7 +48,7 @@ if (n1>=n2&&n1>=n3&&n1>=n4&&n1>=n5){
     console.log(n5)
 }
 
-/*
+
 //Maior altura
 
 const Person = {name: 'Paulo', alt: 1.10,  sex:'F'}
@@ -63,7 +62,7 @@ if (Person.alt>=Person2.alt&&Person.alt>=Person3.alt){
 }else {
     console.log(Person3.alt , Person3.sex)
 }
-*/
+
 //imc
 function imc(p,alt){
     return p/(alt*alt)
